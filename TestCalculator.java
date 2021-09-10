@@ -9,6 +9,8 @@ public class TestCalculator {
         ScintificCalculator tnum=new ScintificCalculator(2, 3, 2, 3);
         tnum.sum();
         tnum.multi();
+
+        ScintificCalculator fnum=new Sc
         
 
     }
