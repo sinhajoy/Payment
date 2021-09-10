@@ -1,5 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Joy Sinha");
+        Person joy=new Person(2,"Joy","Sinha");
+        joy.show();
     }
 }
